@@ -4,7 +4,7 @@
 #
 Name     : django-debreach
 Version  : 2.0.1
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/c8/d5/b65bb6f0f783439210973a629668ff73f92e7f0fc7c8e9c760bb3ca196f1/django-debreach-2.0.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c8/d5/b65bb6f0f783439210973a629668ff73f92e7f0fc7c8e9c760bb3ca196f1/django-debreach-2.0.1.tar.gz
 Summary  : Adds middleware to give some added protection against the BREACH attack in Django.
